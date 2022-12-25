@@ -1,5 +1,5 @@
 # LiveMinitorSite
-![alt text](https://i.imgur.com/1eQQK52.png)
+![alt text](https://i.imgur.com/H0eCpxK.png)
 
 ## Start
 1. Enter: **DomianSite**
