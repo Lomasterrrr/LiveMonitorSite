@@ -1,4 +1,4 @@
-# LiveMinitorSite
+# LiveMonitorSite
 ![alt text](https://i.imgur.com/H0eCpxK.png)
 
 ## Start
